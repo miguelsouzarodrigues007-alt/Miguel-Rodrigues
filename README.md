@@ -1,4 +1,8 @@
-<h1 align="center">Olá! Eu sou o Miguel Rodrigues</h1>
+## Ola sou o Miguel de Souza Rodrigues 👋
+
+- 🔭 Aspirante de Engenharia de Software na UniCesumar
+- 🌱 Estudando Inteligencia Artificial
+- 💬 contate-me no email:miguelsouzarodrigues50@gmail.com
 
 ##
 <div align="center"><br>
