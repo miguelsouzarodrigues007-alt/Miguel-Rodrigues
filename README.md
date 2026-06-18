@@ -1,11 +1,5 @@
 <h1 align="center">Olá! Eu sou o Miguel Rodrigues</h1>
 
-
-<div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Miguel-Rodrigues&theme=transparent" alt="Estatísticas do GitHub"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Rodrigues&layout=compact&langs_count=7&theme=transparent" alt="Linguagens mais usadas"/>
-</div>
-
 <div align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
