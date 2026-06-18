@@ -39,7 +39,7 @@
 
 ### 📫 Contato
 
-GitHub: https://github.com/Miguel-Rodrigues
+GitHub: https://github.com/miguelsouzarodrigues007-alt
 
 ⭐ Obrigado por visitar meu perfil!
 
